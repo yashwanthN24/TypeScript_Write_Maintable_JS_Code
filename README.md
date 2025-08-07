@@ -7,11 +7,11 @@
 - It enhances javascript by offering serveral features that aid in creating more robust and maintable application while reducing development time
 - The most significant feature typescript provides is "static typing"
 
-- <img width="812" height="572" alt="image" src="https://github.com/user-attachments/assets/7c199f4c-e8ab-4ba2-93d9-d2712cc2b438" />
+  <img width="812" height="572" alt="image" src="https://github.com/user-attachments/assets/7c199f4c-e8ab-4ba2-93d9-d2712cc2b438" />
 
 - Statically typed languages like C++ , Java , C#
   
-- <img width="1107" height="562" alt="image" src="https://github.com/user-attachments/assets/6863a2a9-7c7c-4790-9974-32e6c998bfcc" />
+  <img width="1107" height="562" alt="image" src="https://github.com/user-attachments/assets/6863a2a9-7c7c-4790-9974-32e6c998bfcc" />
 
 - Typescript is Javascript with type checking ,It requires developers to explicitly specify variable types
 - similiar to statically typed languages The typescript compiler code checks you code for type related errors at compile time itself
