@@ -33,13 +33,11 @@
 
 - This is called as transpolation
 
-- Setuo
+- Setup
 - Download vscode , nodejs (LTS) , verify node successfully installed by checking version node --version
 - use node package manager to install typescript globally
 - npm i -g typescript
 - or
 - npm install -g typescript
 - after installation verify typescript by running tsc -v ( it should display the typescript version if its succesfully installed )
-- 
-
-- 
+  
