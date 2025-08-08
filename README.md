@@ -165,13 +165,13 @@ Intersection Types
 - Enums start from 0 index
 
 ![alt text](image-28.png)
-```
+
 enum Direction {
   Up = "UP",
   Down = "DOWN",
   Left = "LEFT",
   Right = "RIGHT"
-}```
+}
 
 
 enum Direction {
